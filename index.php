@@ -27,7 +27,7 @@
       </ul>
    </div>
    <div class="row">
-   <a class="bull"></a>
+     <a class="bull"></a>
        <ul class="list-listed-cycled">
       <li></li>
       <li></li>

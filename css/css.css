@@ -38,7 +38,7 @@ ul.list-listed-cycled li:nth-child(1){
 }
 .row > a.bull{
     position: fixed;
-    left: 200px;
+    margin-left: 145px;
      width: 20px;
      height: 21px;
     background: red;
